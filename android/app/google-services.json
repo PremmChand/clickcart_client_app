@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "375829687117",
+    "project_id": "clickcart-12f24",
+    "storage_bucket": "clickcart-12f24.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375829687117:android:ab6bfbe3b58c5c96126504",
+        "android_client_info": {
+          "package_name": "com.example.clickcart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "your key from firebase"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375829687117:android:be079dad506ac871126504",
+        "android_client_info": {
+          "package_name": "com.example.clickcart_client"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "your key from firebase"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
