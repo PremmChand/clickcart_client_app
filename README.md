@@ -19,10 +19,7 @@ and uses GetX for efficient state management.
 
 ## 📱 App Screenshots
 
-<p float="left">
-  <img src="assets/images/home_screen.png" width="200" alt="Home Screen" />
-  <img src="assets/images/filter_product_screen.png" width="200" alt="Filter Products" />
-</p>
+
 
 <p float="left">
   <img src="assets/images/login_screen.png" width="200" alt="Login" />
@@ -30,18 +27,28 @@ and uses GetX for efficient state management.
 </p>
 
 <p float="left">
+   <img src="assets/images/register_otp_screen.png" width="200" alt="Register OTP" />
   <img src="assets/images/otp_screen.png" width="200" alt="OTP Screen" />
-  <img src="assets/images/register_otp_screen.png" width="200" alt="Register OTP" />
+</p>
+
+<p float="left">
+  <img src="assets/images/home_screen.png" width="200" alt="Home Screen" />
+  <img src="assets/images/filter_product_screen.png" width="200" alt="Filter Products" />
+</p>
+
+<p float="left">
+    <img src="assets/images/sort_item_screen.png" width="200" alt="Sort Item" />
+   <img src="assets/images/sorting_product_screen.png" width="200" alt="Sorted Products" />
 </p>
 
 <p float="left">
   <img src="assets/images/product_detail_screen.png" width="200" alt="Product Details" />
-  <img src="assets/images/sort_screen_item.png" width="200" alt="Sort Item" />
+<img src="assets/images/payment_screen.png" width="200" alt="Payment Screen" />
 </p>
 
 <p float="left">
-  <img src="assets/images/sortin_product_screen.png" width="200" alt="Sorted Products" />
-  <img src="assets/images/payment_screen.png" width="200" alt="Payment Screen" />
+  <img src="assets/images/payment_screen1.png" width="200" alt="Payment Screen" />
+  <img src="assets/images/payment_screen2.png" width="200" alt="Payment Screen" />
 </p>
 
 <p float="left">
@@ -95,8 +102,6 @@ flutter run
 🙌 Contribution
 Contributions are welcome! Feel free to open issues or submit pull requests.
 
-📃 License
-This project is licensed under the MIT License. See LICENSE for details.
 
 Built with ❤️ using Flutter by Premm Chand
 
